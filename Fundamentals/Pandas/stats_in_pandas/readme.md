@@ -4,12 +4,10 @@ Link to Session for students: [Pandas Walkthrough Part 1](https://github.com/Cae
 Link to Session solutions: [Pandas Walkthrough Part 1 solutions](https://github.com/Caellwyn/FLEX-Sessions/blob/main/Fundamentals/Pandas/solution_pandas_lesson.ipynb)
 
 ## Learning Goals
-1. Loading data from disk into working memory in the form of a dataframe
-2. Viewing data in the dataframe
-3. Exploring the number of rows and columns, column names and data types, and any missing data
-4. How to remove columns and rows with missing data.
-5. How to join two dataframes together.
-
+1. Use .describe() to view summary statistics
+2. Use df.groupby() to aggregate statistics by a feature
+3. Examine feature correlations
+4. Analyze statistics to make a recommendation
 
 Session Outline/Plan
 Students guide instructor on using basic pandas functions and methods to load, clean, and join two tables, then save it.
@@ -18,21 +16,25 @@ Students are encouraged to use Pandas documentation and Google, as well as error
 Introduction (1 Mins)
 Included in notebook.
 
-### Activity 1 ~10 - 30 Mins? (depends on student proficiency)
+### Activity 1 ~10-30 Mins? (depends on student proficiency)
 
 Students should each have a copy of the notebook and be working along with the group.  
 
 They should end with a functional notebook walking through the learning goals.  
 
-Instructions for instructors to use the materials
+## Instructions for instructors to use the materials
 
 Use solution as guidance, but allow students to determine what the instructor enters into code cells.  
-This should be a collaborative creation, not instructor led.
+**This should be a collaborative creation, not instructor led.**
+Instructor may use guiding questions to help students solve problems (
 
+* What did you find on Google?
+* What does the error say?
+* Is the documentation on this helpful?
 
-### Activity 2 (10-30 Mins)
+### Activity 2 (XX Mins)
 
-If there is a lot of time left, move on to [Pandas Walkthrough Part 2](https://github.com/Caellwyn/FLEX-Sessions/tree/main/Fundamentals/Pandas/stats_in_pandas)
+If there is a lot of time left, move on to Pandas Walkthrough Part 2 (stats_in_pandas)
 
 Conclusion (1 Mins)
 Included in notebook
@@ -47,14 +49,16 @@ Also, feel free to do more manipulation of data in this notebook.
 4. Practice multiple ways to get the same result:
   - Introduce 'df =' vs df.method(inplace=True)
   - Practice df['feature'] vs df.feature
+5. Visualize relationships between features with df.plot()
 
 
 ## Tips
 Don't solve it for them, let them struggle.  Show error messages and guide them toward how to read and deal with them.
-
-## Instructor Name & Date of Session
+There are multiple ways to reach the same goals.  Accept the students' answer, and consider whether introducing another way would be helpful or not.
 
 ## Change Log
 
 ## Post-Session Notes
+In this section, we will record our post-session notes. Add new notes above older notes.
 
+Instructor Name & Date of Session
