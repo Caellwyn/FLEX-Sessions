@@ -1,7 +1,9 @@
-## Fundamentals: Pandas 1
+## Fundamentals: Pandas Descriptive Statistics
 
 Link to Session for students: [Pandas Walkthrough Part 1](https://github.com/Caellwyn/FLEX-Sessions/blob/main/Fundamentals/Pandas/pandas_lesson.ipynb)
 Link to Session solutions: [Pandas Walkthrough Part 1 solutions](https://github.com/Caellwyn/FLEX-Sessions/blob/main/Fundamentals/Pandas/solution_pandas_lesson.ipynb)
+
+Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/13P2ejmLjOLNykDZxP3hDpYM-RxwZZytCB_l_Girynqs/edit?usp=sharing)
 
 ## Learning Goals
 1. Use .describe() to view summary statistics

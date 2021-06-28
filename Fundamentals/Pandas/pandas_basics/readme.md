@@ -3,6 +3,8 @@
 Link to Session for students: [Pandas Walkthrough Part 1](https://github.com/Caellwyn/FLEX-Sessions/blob/main/Fundamentals/Pandas/pandas_lesson.ipynb)
 Link to Session solutions: [Pandas Walkthrough Part 1 solutions](https://github.com/Caellwyn/FLEX-Sessions/blob/main/Fundamentals/Pandas/solution_pandas_lesson.ipynb)
 
+Link to student exit ticket responses: [Exit Ticket Responses](https://docs.google.com/forms/d/1q5DiWQPlEMlcxSzJeNnvuw0T2dj9FYfLoif6r4Yl3dM/edit?usp=sharing)
+
 ## Learning Goals
 1. Loading data from disk into working memory in the form of a dataframe
 2. Viewing data in the dataframe
@@ -53,6 +55,8 @@ Also, feel free to do more manipulation of data in this notebook.
 Don't solve it for them, let them struggle.  Show error messages and guide them toward how to read and deal with them.
 
 ## Instructor Name & Date of Session
+
+
 
 ## Change Log
 
